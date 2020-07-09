@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TelcellTestAppKt</string>
+    <string name="API_KEY">ff3e256fbed5d5f0707895adcb24ca9a</string>
+    <string name="overview">Overview</string>
+    <string name="runtime">Runtime:</string>
+    <string name="rating">Rating:</string>
+    <string name="released_ate">ReleaseD ate:</string>
+    <string name="movie_info">Movie Info</string>
+</resources>
